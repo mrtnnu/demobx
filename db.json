@@ -1,0 +1,23 @@
+{
+	"solicitudCobro": {
+		"detalleResultado": {
+			"id": "15f2b4b4d6 1fd61f715f"
+		},
+		"edoPet": 0
+	},
+	"consulta": {
+		"info": {
+			"listaMC": "95d461616d96ebef6b545152a2ef6f4d4ad6932756f3aa715650d09a1847e171a5ebac4fc5d870f223db8566f939122882fb8eaf5115c54c837035661d75c403eedba37c9a1c59c622a1a9890f025c7479ba2e87fb37573c29c4bd7a7c364220674175fe78b01167ecdba8a4985af6826e40bb0849eb6fa1ceab7433f77a1d769311307cb1a16f0506f5b238369747cac699dc0692a4642d674bbb7078772fed82fda92636c054ed100fb564cd151701127f743cf19e4fdd9bf293286f530429e827deeaeaff17e736abbd43ff94a01bdd04731ba6ebe15f691fa82c365bc9a1",
+			"ultima": true
+		},
+		"edoPet": 0
+	},
+	"consultaEstadoOperacion": {
+		"detalleResultado": {
+			"id": "15f2b4b4d61fd61f715f",
+			"hp": 1508230058706,
+			"e": 1
+		},
+		"edoPet": 0
+	}
+}
